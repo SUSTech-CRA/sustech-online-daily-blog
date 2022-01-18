@@ -875,6 +875,7 @@ about:
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
     - { class: "iconfont icon-mini-program-fill", link: "https://sustech.online/miniapp/", tip: "小程序" }
+    - { class: "iconfont icon-rss", link: "/atom.xml", tip: "RSS订阅" }
 
 
 #---------------------------
