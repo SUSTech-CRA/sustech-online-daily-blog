@@ -889,7 +889,7 @@ about:
 #---------------------------
 page:
   banner_img: /img/default.png
-  banner_img_height: 30
+  banner_img_height: 40
   banner_mask_alpha: 0.3
 
 
