@@ -3,7 +3,7 @@ title: about
 layout: about
 ---
 
-本站为 **[南科手册 SUSTech.Online](https://sustech.online/)** 系列站。
+本站 [Daily.SUSTech.Online](https://daily.sustech.online/) 为 [南科手册 SUSTech.Online](https://sustech.online/) 系列站。
 
 与手册差异是：
 1. 快讯网旨在发布手册的更新动态与推送校园热点，
