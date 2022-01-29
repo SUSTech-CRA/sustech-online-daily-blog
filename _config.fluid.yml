@@ -511,7 +511,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: /meta-img/head-1.jpg
   banner_img_height: 40
   banner_mask_alpha: 0.3
 
@@ -899,10 +899,10 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /meta-img/head-8.jpg
   banner_img_height: 85
   banner_mask_alpha: 0.3
-  subtitle: "Page not found"
+  subtitle: "404, Page not found."
 
 
 #---------------------------
