@@ -855,7 +855,7 @@ tag:
     min_font: 15
     max_font: 30
     unit: px
-    start_color: "#BBBBEE"
+    start_color: "#425066"
     end_color: "#337ab7"
 
 
