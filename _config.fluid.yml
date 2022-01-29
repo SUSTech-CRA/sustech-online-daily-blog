@@ -996,7 +996,7 @@ static_prefix:
   tocbot: https://lib.baomitu.com/tocbot/4.13.0/
 
   # typed: https://cdn.jsdelivr.net/npm/typed.js@2/lib/
-  typed: https://lib.baomitu.com/typed.js/2.0.12/
+  typed: https://lib.baomitu.com/typed.js/2.0.11/
 
   # fancybox: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3/dist/
   fancybox: https://lib.baomitu.com/fancybox/3.5.7/
