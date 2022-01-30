@@ -46,3 +46,9 @@ tags:
 <https://www.mybib.com/>
 
 Reference 一键式操作，什么 GBT 7714-2015，APA，IEEE 格式都支持。
+
+## Turnitin 查重
+
+<https://www.turnitin.com/>
+
+查重必备，并且南科大图书馆已购买该服务，可申请免费使用。
