@@ -8,7 +8,7 @@ tags:
 - 选课
 ---
 
-[牛娃课程评价社区](https://nces.cra.moe/)（NCES，Niuwa Curriculum Evaluation System）是南科大学生的课程评价社区，因此，只有拥有南科大邮箱的同学或老师才可以注册账户。[中科大同款评教系统](https://icourse.club/)，庚续教改初心。
+[牛娃课程评价社区](https://nces.cra.moe/)（NCES，Niuwa Curriculum Evaluation System）是南科大学生的课程评价社区，因此，只有拥有南科大邮箱的同学或老师才可以注册账户。[中科大同款评教系统](https://icourse.club/)，赓续教改初心。
 
 * 登录账户以后才可以执行点赞和写点评的操作，这样可以有效避免同学们刷赞，也可以提高社区质量。
 * 用户学号、邮箱都不会对外公开，不要担心因为写点评而被老师认出来。
