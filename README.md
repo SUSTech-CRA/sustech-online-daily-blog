@@ -2,4 +2,3 @@
 
 * https://daily.sustech.online/
 * https://sustech-online-daily.netlify.app/
-* https://sustech-online-daily.pages.dev/
