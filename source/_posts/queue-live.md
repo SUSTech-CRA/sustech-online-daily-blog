@@ -10,6 +10,6 @@ tags:
 
 CRA和手册团队助力科学防疫，部署在风雨操场的核酸排队直播，直播时间 10点- 20点半。
 
-直播网址：<http://live.cra.moe/>
+直播网址（仅校园网可访问）：<http://live.cra.moe/>
 
 ![界面截图](/post-img/live-queue.png)
