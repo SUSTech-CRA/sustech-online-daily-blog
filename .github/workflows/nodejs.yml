@@ -37,13 +37,3 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: "public/"
         force_orphan: true
-
-    - name: copy file to server SZX-CC
-      uses: burnett01/rsync-deployments@5.0
-      with:
-        switches: -avzr --delete
-        path: "public/"
-        remote_path: ${{ secrets.HTML_PATH }}
-        remote_host: ${{ secrets.HOST_SZXCC }}
-        remote_user: ${{ secrets.USERNAME }}
-        remote_key: ${{ secrets.SSH_KEY }}
